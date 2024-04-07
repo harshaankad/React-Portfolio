@@ -16,6 +16,16 @@ This is a React-based portfolio website created to understand the fundamentals o
 - **CSS**: Cascading Style Sheets for styling the website.
 - **HTML**: HyperText Markup Language for structuring the content.
 
+
+
+## ScreenShots
+
+![Screenshot 2024-04-07 190554](https://github.com/harshaankad/React-Portfolio/assets/131589068/a960d8e5-2dcd-4d24-856a-329d93df4a2d)
+![Screenshot 2024-04-07 190649](https://github.com/harshaankad/React-Portfolio/assets/131589068/f0beb1e1-66b1-4f3a-8016-360e75942a09)
+![Screenshot 2024-04-07 190720](https://github.com/harshaankad/React-Portfolio/assets/131589068/04d9fe11-5310-4cc3-bd26-3bad9a6184db)
+![Screenshot 2024-04-07 190740](https://github.com/harshaankad/React-Portfolio/assets/131589068/78c26679-9c26-4c8b-abd6-9ea3be7f7e56)
+
+
 ## Author
 
 [Harsha N Ankad](https://github.com/harshaankad)
